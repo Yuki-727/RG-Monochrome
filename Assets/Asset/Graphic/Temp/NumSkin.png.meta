@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 02175d117c2525d4ea5b903e43dda30d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2203549148930584127
+    second: NumSkin_0
+  - first:
+      213: 3653358815712874347
+    second: NumSkin_1
+  - first:
+      213: 2737472852364345359
+    second: NumSkin_2
+  - first:
+      213: -1520136092425145768
+    second: NumSkin_3
+  - first:
+      213: 5742378250538553195
+    second: NumSkin_4
+  - first:
+      213: 1491815454771272638
+    second: NumSkin_5
+  - first:
+      213: -3377880835797145758
+    second: NumSkin_6
+  - first:
+      213: 8218522531766894994
+    second: NumSkin_7
+  - first:
+      213: 7406044177156031551
+    second: NumSkin_8
+  - first:
+      213: 5452621954764377592
+    second: NumSkin_9
+  - first:
+      213: 7002650413802421920
+    second: NumSkin_10
+  - first:
+      213: -5548688050897802491
+    second: NumSkin_11
+  - first:
+      213: 5309295368417692651
+    second: NumSkin_12
+  - first:
+      213: 6252033990031365903
+    second: NumSkin_13
+  - first:
+      213: -3238648717073184822
+    second: NumSkin_14
+  - first:
+      213: 925319289948467245
+    second: NumSkin_15
+  - first:
+      213: -4207234314155991491
+    second: NumSkin_16
+  - first:
+      213: -1995997501708789363
+    second: NumSkin_17
+  - first:
+      213: -9115720385892320664
+    second: NumSkin_18
+  - first:
+      213: 1024557786513221876
+    second: NumSkin_19
+  - first:
+      213: -4640008066820508529
+    second: NumSkin_20
+  - first:
+      213: -1624362847095137351
+    second: NumSkin_21
+  - first:
+      213: -1711001174023384097
+    second: NumSkin_22
+  - first:
+      213: 1445861782076753608
+    second: NumSkin_23
+  - first:
+      213: 8528020437236602634
+    second: NumSkin_24
+  - first:
+      213: 3116214700475346074
+    second: NumSkin_25
+  - first:
+      213: 5668969427151186660
+    second: NumSkin_26
+  - first:
+      213: 5144397889694577036
+    second: NumSkin_27
+  - first:
+      213: -1337106520278395395
+    second: NumSkin_28
+  - first:
+      213: -8752339338498181780
+    second: NumSkin_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NumSkin_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 98
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d0e459bb6b61e0800000000000000
+      internalID: -2203549148930584127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 168
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f8b9f8c7653b230800000000000000
+      internalID: 3653358815712874347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 19
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f00c3733e057df520800000000000000
+      internalID: 2737472852364345359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 16
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f874d289601bf40800000000000000
+      internalID: 5742378250538553195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 166
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb541c804ef3b410800000000000000
+      internalID: 1491815454771272638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 87
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26726b0d64b5f11d0800000000000000
+      internalID: -3377880835797145758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 163
+        width: 27
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2918284f2be0e0270800000000000000
+      internalID: 8218522531766894994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 162
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f344c32b0fd87c660800000000000000
+      internalID: 7406044177156031551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 173
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae7fe023796e2160800000000000000
+      internalID: 7002650413802421920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_11
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 97
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b28ccad991ff2b0800000000000000
+      internalID: -5548688050897802491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 92
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebc92af1086ea940800000000000000
+      internalID: 5309295368417692651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 95
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07dc7b0acfa3c650800000000000000
+      internalID: 6252033990031365903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 95
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac70492a6220e03d0800000000000000
+      internalID: -3238648717073184822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_15
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 93
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20f13dddf467dc00800000000000000
+      internalID: 925319289948467245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 90
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ed5e1aea6ec95c0800000000000000
+      internalID: -4207234314155991491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_17
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 87
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d899412f8dacc44e0800000000000000
+      internalID: -1995997501708789363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_18
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 86
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86af91f2b947e7180800000000000000
+      internalID: -9115720385892320664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 161
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f82bf4e0e5f73e00800000000000000
+      internalID: 1024557786513221876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_20
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84773e3f316b9fb0800000000000000
+      internalID: -4640008066820508529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 171
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb5d88c89a1579e0800000000000000
+      internalID: -1624362847095137351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_22
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 18
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd35f0c5f7d4148e0800000000000000
+      internalID: -1711001174023384097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 168
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c68ffa51abb01410800000000000000
+      internalID: 1445861782076753608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 15
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0752ce776d995670800000000000000
+      internalID: 8528020437236602634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_26
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 14
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea65e398a93cae40800000000000000
+      internalID: 5668969427151186660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_27
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 11
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81b38edf92946740800000000000000
+      internalID: 5144397889694577036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_28
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 10
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df592ff34b4a17de0800000000000000
+      internalID: -1337106520278395395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_29
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 10
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6573275eb1798680800000000000000
+      internalID: -8752339338498181780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NumSkin_30
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 19
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce2d7f066fdd694da78f1f9b24748cf
+      internalID: -1539659917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 167
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a456a69c26071074a952679c0e148ff9
+      internalID: -1520136092425145768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 164
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401106753a9821348b07238f8d65c8fe
+      internalID: 3116214700475346074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 61e92589d70a6c9408c11c75efd422e1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      0: 7002650413802421920
+      1: -1624362847095137351
+      1z: -1624362847095137351
+      2: 3653358815712874347
+      3: 1445861782076753608
+      4: -1520136092425145768
+      5: 1491815454771272638
+      6: 3116214700475346074
+      7: 8218522531766894994
+      8: 7406044177156031551
+      9: 1024557786513221876
+      NumSkin_0: -2203549148930584127
+      NumSkin_11: -5548688050897802491
+      NumSkin_12: 5309295368417692651
+      NumSkin_13: 6252033990031365903
+      NumSkin_14: -3238648717073184822
+      NumSkin_15: 925319289948467245
+      NumSkin_16: -4207234314155991491
+      NumSkin_17: -1995997501708789363
+      NumSkin_18: -9115720385892320664
+      NumSkin_2: 2737472852364345359
+      NumSkin_20: -4640008066820508529
+      NumSkin_22: -1711001174023384097
+      NumSkin_24: 8528020437236602634
+      NumSkin_26: 5668969427151186660
+      NumSkin_27: 5144397889694577036
+      NumSkin_28: -1337106520278395395
+      NumSkin_29: -8752339338498181780
+      NumSkin_30: -1539659917
+      NumSkin_4: 5742378250538553195
+      NumSkin_6: -3377880835797145758
+      NumSkin_9: 5452621954764377592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

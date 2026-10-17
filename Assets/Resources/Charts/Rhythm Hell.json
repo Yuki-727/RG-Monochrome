@@ -1,0 +1,655 @@
+{
+    "metadata": {
+        "id": "RhythmHell",
+        "difficultyType": "Hard",
+        "difficultyName": "Seal",
+        "level": 1,
+        "title": "Rhythm Hell",
+        "artist": "Louie Zong",
+        "charter": "Seal",
+        "bpm": 120.0,
+        "offset_ms": 0.0,
+        "audioPath": "Assets/Resources/Audio/Rhythm Hell - YouTube.mp3",
+        "backgroundPath": "Assets/Resources/Backgrounds/whiteBG.png",
+        "ArtCoverPath": "Assets/Resources/CoverArt/Chair.png",
+        "previewStartBeat": 38.0,
+        "previewDurationBeats": 16.0
+    },
+    "laneDefinitions": [
+        {
+            "lane_id": 0,
+            "pos_x": -5.0,
+            "pos_y": 0.0,
+            "rotation": 0.0,
+            "alpha": 1.0,
+            "autoplay": false
+        }
+    ],
+    "notes": [
+        {
+            "beat": 10.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 11.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 12.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 13.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 18.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 19.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 19.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 20.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 21.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 26.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 26.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 27.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 28.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 28.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 29.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 34.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 34.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 34.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 35.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 35.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 36.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 36.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 36.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 37.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 37.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 42.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 43.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 43.33333333333333,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 43.666666666666667,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 44.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 44.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 45.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 45.33333333333333,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 45.666666666666667,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 50.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 51.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 51.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 52.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 52.400000000000009,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 52.80000000000001,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 53.2,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 53.6,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 58.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 59.77777777777777,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 58.44444444444444,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 58.888888888888889,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 59.33333333333333,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 60.22222222222222,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 60.666666666666667,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 61.11111111111111,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 61.55555555555555,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 66.4,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 67.2,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 68.33333333333333,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 69.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 69.66666666666666,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 74.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 74.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 74.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 74.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 75.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 75.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 75.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 75.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 75.875,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 76.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 76.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 76.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 76.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 76.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.0,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.25,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.5,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.625,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 77.875,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        },
+        {
+            "beat": 85.75,
+            "lane": 0,
+            "type": 0,
+            "alpha": 1.0,
+            "duration": 0.0,
+            "warningCount": 0
+        }
+    ],
+    "sv_events": [
+        {
+            "beat": 0.0,
+            "target_speed": 5.0,
+            "duration": 0.0,
+            "ease": 0
+        }
+    ],
+    "lane_events": []
+}
